@@ -48,6 +48,10 @@ span{
     
 }
 
+a{
+    text-decoration: none;
+}
+    
 span:hover{
     background-color: rgb(247, 141, 141);
     text-decoration: underline;
